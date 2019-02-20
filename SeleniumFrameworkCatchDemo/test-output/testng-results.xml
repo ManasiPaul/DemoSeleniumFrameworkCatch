@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="27635" started-at="2019-02-20T07:32:58Z" finished-at="2019-02-20T07:33:25Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="27635" started-at="2019-02-20T07:32:58Z" finished-at="2019-02-20T07:33:25Z">
+      <class name="buyjourney.WomenShoe">
+        <test-method status="PASS" signature="TestSetup()[pri:0, instance:buyjourney.WomenShoe@5622fdf]" name="TestSetup" is-config="true" duration-ms="227" started-at="2019-02-20T07:32:58Z" finished-at="2019-02-20T07:32:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestSetup -->
+        <test-method status="PASS" signature="setUpTest()[pri:0, instance:buyjourney.WomenShoe@5622fdf]" name="setUpTest" is-config="true" duration-ms="7620" started-at="2019-02-20T07:32:58Z" finished-at="2019-02-20T07:33:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpTest -->
+        <test-method status="PASS" signature="shoes()[pri:0, instance:buyjourney.WomenShoe@5622fdf]" name="shoes" duration-ms="19740" started-at="2019-02-20T07:33:05Z" finished-at="2019-02-20T07:33:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shoes -->
+        <test-method status="PASS" signature="tearDownTest()[pri:0, instance:buyjourney.WomenShoe@5622fdf]" name="tearDownTest" is-config="true" duration-ms="244" started-at="2019-02-20T07:33:25Z" finished-at="2019-02-20T07:33:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:buyjourney.WomenShoe@5622fdf]" name="teardown" is-config="true" duration-ms="377" started-at="2019-02-20T07:33:30Z" finished-at="2019-02-20T07:33:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- buyjourney.WomenShoe -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
